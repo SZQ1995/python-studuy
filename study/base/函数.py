@@ -1,4 +1,4 @@
-from study import random
+from study.base import random
 
 """
 函数的作用有两个：

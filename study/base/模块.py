@@ -41,7 +41,7 @@ t.sleep(1)
 print(t.time())
 
 # 导入自定义模块
-from study import 类 as cl
+from study.base import 类 as cl
 
 c = cl.Person()
 c.eat()
