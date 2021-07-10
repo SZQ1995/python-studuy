@@ -1,6 +1,6 @@
 """
+多线程
 Python3 线程中常用的两个模块为：
-
 _thread
 threading(推荐使用)
 thread 模块已被废弃。用户可以使用 threading 模块代替。
